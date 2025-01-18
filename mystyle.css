@@ -1,0 +1,56 @@
+header {
+  color: blue;
+  text-align: center;
+  position: sticky;
+  display: inline;
+  background-color: rgb(221, 37, 37);
+
+
+}
+
+main {
+  font-size: 20px;
+}
+
+.image {
+  display: block;
+  align-items: center;
+  width: 100vw;
+}
+
+footer {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+
+
+}
+
+a:link {
+  text-decoration: solid;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+a:active {
+  text-decoration: green;
+}
+
+.minister {
+  text-align: center;
+  color: rgb(129, 8, 243);
+  font-style: oblique;
+}
